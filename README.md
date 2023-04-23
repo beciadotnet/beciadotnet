@@ -5,12 +5,11 @@
 
 
 <h3 align="center">Languages and Tools:</h3>
-<h3 align="left">-.NET(Entitity Framework,.NET Core,Razor Pages)</h3>
-<h3 align="left">-C#</h3>
-<h3 align="left">-CSS, Bootstrap</h3>
-<h3 align="left">-SQL</h3>
-<h3 align="left">-GIT</h3>
-
+-.NET(Entitity Framework,.NET Core,Razor Pages)
+-C#
+-CSS, Bootstrap
+-SQL
+-GIT
 
 <h3 align="center">Connect with me:</h3>
 📫 bekiermicha@gmail.com
