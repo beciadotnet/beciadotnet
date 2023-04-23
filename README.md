@@ -3,6 +3,7 @@
 <h3 align="center">Currently, I'am looking for an internship</h3>
 
 - 📫 How to reach me **bekiermicha@gmail.com**
+- 📫 How to reach me **linkedin.com/in/michał-bekier-499162230/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
