@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Michał</h1>
 <h3 align="center">A passionate .NET/C# developer</h3>
-<h3 align="center">Currently, I'am looking for an intern</h3>
+<h3 align="center">Currently, I'am looking for an internship</h3>
 
 - 📫 How to reach me **bekiermicha@gmail.com**
 
